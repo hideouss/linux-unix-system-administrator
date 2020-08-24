@@ -5,7 +5,7 @@ local DNS server:https://www.quora.com/What-is-a-local-DNS-server#:~:text=The%20
 private dns server + public dns server :google public dns:https://developers.google.com/speed/public-dns/
 find DNS server used by user's pc :
 https://askleo.com/find-dns-server-used-pc/#:~:text=The%20DNS%20you%20use&text=In%20most%20other%20versions%20of,see%20%E2%80%9CDNS%20Servers%E2%80%9D%20listed.
-google DNS server:https://developers.google.com/speed/public-dns/docs/using
+change nameserver:google DNS server:https://developers.google.com/speed/public-dns/docs/using
 
 
 
