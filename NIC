@@ -1,0 +1,7 @@
+fedora download speed so low?
+use ethtool to change NIC:
+1, ifconfig:find NIC name
+2, ethtool NIC_name:see NIC setting
+3,permanent change NIC setting 
+nano /etc/sysconfig/network-scripts/ifcfg-NIC_name &&  ETHTOOL_OPTS = "speed [100/1000/10000] duplex [half/full] autoneg [on/off]"   
+my setting:speed 10000 duplex full autoneg on 
