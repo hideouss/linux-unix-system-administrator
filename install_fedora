@@ -1,2 +1,23 @@
 .rpm : sudo dnf localinstall filename.rpm
 .tar.xz : tar-xf archive.tar - extract all files from archive.tar
+latest git from source:
+pre: 
+sudo dnf install dh-autoreconf curl-devel expat-devel gettext-devel \
+  openssl-devel perl-devel zlib-devel && sudo dnf install asciidoc xmlto docbook2X && 
+compile and install :
+$ tar -xf git-2.8.0.tar.gz
+$ cd git-2.8.0
+$ make configure
+$ ./configure --prefix=/usr
+$ make all doc info
+$ sudo make install install-doc install-html install-info
+
+
+
+
+
+
+
+
+
+
