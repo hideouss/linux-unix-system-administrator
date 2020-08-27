@@ -1,0 +1,2 @@
+.rpm : sudo dnf localinstall filename.rpm
+.tar.xz : tar-xf archive.tar - extract all files from archive.tar
