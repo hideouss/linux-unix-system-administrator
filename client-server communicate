@@ -1,1 +1,16 @@
+client-server model : email;network printing;world wide web
+a computer network: clients communicate with a server via the internet 
+a server host runs one or more server programs which share their resources with clients     
+a client does not share any of its resources  initate communicate sessions with servers       clients 
+sometimes server-server communicate
+if sensitive message communicate between client and server  it need to be encrypted 
+all client-server protocols are in the application layer 
+clients and servers exchange messages in a request-response pattern  
+the client request a request  and the server returns a response    this exchange of message is an example of inter-process communiaction 
+server could be classed 
+example:a bank customer accesses online banking service with a web service 
+client-host  server-host  not same as clinet server      a host is any computer connected to a network
+the host is a multifunction computer   clients and servers are just programs that run on a host 
+
+
 
