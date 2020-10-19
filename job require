@@ -1,27 +1,43 @@
 google: Experience in Java, C/C++, C#, Objective C, Python, JavaScript, or Go;
 Experience : web/mobile application development, Unix/Linux environments, distributed/parallel systems, information retrieval;
 networking, systems/security software development.
-
-
-
-
-
-
-
-
-
-
-
-red hat:
-ibm:
-intel:
-amd:
-twitter:
-facebook:
-linux foundation:
-microsoft:
-apple:
-
+Experience in full stack web application development; API development (e.g. REST);
+Experience in one or more of the following: architecting/developing  large scale distributed systems, concurrency,
+multithreading and synchronization;multithreading and synchronization.
+Experience with database internals, database language theories, database design, SQL and database programming;
+Understanding of technologies such as virtualization and global infrastructure, load balancing, networking,
+massive data storage, Hadoop, MapReduce and security.
+Scripting skills in Python, Perl, Shell or another common language;
+Experience working with Data Structures or Algorithms ;
+Experience working one or more of the following: web or mobile application development,Unix/Linux environments,
+distributed and parallel systems,information retrieval,natural language processing, networking, 
+developing large software systems, and/or security software development;
+Experience with Unix/Linux operating systems internals (e.g. filesystems, system calls),
+and with networking (e.g. routing, ESDN) or cloud systems.Experience analyzing and troubleshooting systems.
+Ability to design large-scale distributed systems,Ability to debug and optimize code and automate routine tasks.
+Experience with device drivers, virtualization, Linux kernel and windows networking.
+Experience in Virtual Machine Monitor.Experience in Kernel-Based Virtual Machine.Experience in Cloud Networking.
+experience designing and managing MySQL databases with a focus on performance, 
+security, scalability, reliability, high-availability, and disaster recovery.
+Experience with database internals and diagnosing memory leaks, data corruption, replication, database performance and tuning.
+Experience with scripting, automation and SQL/PL-SQL and high-level languages such as Python
+Experience with coding in data structures, algorithms and software design.
+Experience working on cloud IaaS, PaaS or SaaS products.
+Experience with designing or managing large distributed systems.
+Experience working with cloud technologies.
+System administrator level experience of Linux/Unix or Windows systems (
+from kernel to shell and beyond, file systems and client-server protocols).
+Understanding of the following Internet technologies: web-tech (HTTP, DNS, TLS, HTML), networking (routing, TCP/IP).
+Knowledge of programming/scripting in one or more of the following: Java, C, C++, .NET, Python, Shell, Perl, JavaScript.
+Web development experience with strong HTML/JavaScript skills.
+Strong competencies in data structures, algorithms and software design optimized for large-scale distributed software systems
+Experience as a Full Stack/Front End Developer.Experience developing or designing client-side applications.
+Linux/Unix skills,Experience with compiled, statically typed server technologies (Java, Go).
+Experience with ES6 and CoffeeScript.;Experience developing high load/high traffic user-facing software.;
+Experience with cloud technologies.Experience with building, maintaining and optimizing responsive web apps.
+Experience in Cloud Developer Tools (e.g., VSCode and IntelliJ).Experience with GKE, K8s, Serverless (Cloud Run), and CICD (build).
+Experience with leading large, complex, cross-functional engineering projects.
+Programming experience (Assembly, C, C++ or scripting using Python or Perl).
 
 
 
